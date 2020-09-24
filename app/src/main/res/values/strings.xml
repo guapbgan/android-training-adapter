@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo10_Adapter</string>
+    <string-array name="income_placeholder">
+        <item>Jan_2000</item>
+        <item>Feb_1000</item>
+        <item>Mar_4000</item>
+        <item>Apr_5000</item>
+    </string-array>
+    <string-array name="versions">
+        <item>Android 4.0</item>
+        <item>Android 4.1, 4.2, 4.3</item>
+        <item>Android 4.4</item>
+    </string-array>
+    <string-array name="codes">
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kit Kat</item>
+    </string-array>
+</resources>
